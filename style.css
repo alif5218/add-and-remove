@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.demo {
+    margin: 0 auto;
+    width: 500px;
+    padding: 50px;
+    border: 2px dotted aqua;
+    background-color: bisque;
+    font-size: 25px;
+    font-weight: lighter;
+    font-family: monospace;
+}
+.demo button{
+    padding: 5px 15px;
+    color: black;
+    background-color: antiquewhite;
+    border: 2px dotted powderblue;
+    transition: .3s;
+}
+.demo button:hover{
+    background-color: rgb(55, 139, 121);
+}
+button{
+
+    padding: 5px 15px;
+    color: black;
+    background-color: antiquewhite;
+    border: 2px dotted powderblue;
+    transition: .3s;
+}
+button:hover{
+    background-color: rgb(55, 139, 121);
+}
